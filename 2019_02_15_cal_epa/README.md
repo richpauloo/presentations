@@ -12,7 +12,7 @@
 ### Setup
 
 1. Follow [this guide](https://richpauloo.github.io/2018-05-16-Installing-the-R-kernel-in-Jupyter-Lab/) to install Python, R, and JupyterLab  
-2. Follow [this guide](https://www.earthdatascience.org/tutorials/intro-google-earth-engine-python-api/) to install the Python Google Earth Engine client  
+2. (optional) Follow [this guide](https://www.earthdatascience.org/tutorials/intro-google-earth-engine-python-api/) to install the Python Google Earth Engine client  
 
 ### Contact
 
